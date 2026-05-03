@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="The Last Excuse social preview">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="0%" r="75%">
+      <stop offset="0%" stop-color="#3f9dff" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#101820" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#020305" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#020305"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <path d="M100 95h1000v440H100z" fill="none" stroke="#245f9b" stroke-width="2" opacity="0.6"/>
+  <circle cx="149" cy="144" r="16" fill="#fff"/>
+  <circle cx="149" cy="144" r="26" fill="none" stroke="#3f9dff" stroke-width="4" opacity="0.82"/>
+  <text x="132" y="310" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="900">The Last Excuse</text>
+  <text x="138" y="382" fill="#cce7ff" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" letter-spacing="7">NO MORE EXCUSES</text>
+  <line x1="132" y1="445" x2="520" y2="445" stroke="#3f9dff" stroke-width="6"/>
+</svg>
